@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jameson\documents\visual studio 2017\projects\templatematching\templatematching\source.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  TemplateMatching.vcxproj -> C:\Users\Jameson\Documents\Visual Studio 2017\Projects\TemplateMatching\x64\Debug\TemplateMatching.exe
+  TemplateMatching.vcxproj -> C:\Users\Jameson\Documents\Visual Studio 2017\Projects\TemplateMatching\x64\Debug\TemplateMatching.pdb (Partial PDB)
